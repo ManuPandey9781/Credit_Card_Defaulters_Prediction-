@@ -27,26 +27,41 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 # Algorithms
 
 Support Vector Machine,
+
 Random Forest Classifier,
+
 Decision Tree Classifier,
+
 Logistic Regression,
+
 knn,
+
 naive bayes.
 
 # Appraoch Pipeline
+
 Data Preprocessing
+
 Data Exploration
+
 Model Prediction
 
 # CONCLUSIONS:
 
 • From the above machine learning models, we can conclude that Logistic Regression gives us the highest accuracy.
+
 • After implementation of bagging concept, Logistic Regression still tops is terms of accuracy with 81.61 %.
+
 • Based on the exploratory data analysis, we discover that human characteristics are not the most important predictors of default.
+
 • Model can be improved with more data and computational resources.
+
 • We can also see that most credit card users are females and so are the highest number of defaulters.
+
 • People aged between 20 to 30 have moderate default conditions.
+
 • People aged above 61 are more likely to default the payments.
+
 • Highly educated persons are less likely to default whereas, less educated people come under the highly defaulted category.
 
 
